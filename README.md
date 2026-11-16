@@ -5,7 +5,7 @@ I build complete instruments: the mechanics, the PCB, the firmware, and the mode
 sense of the data coming off them. Most ML work starts with a dataset someone else collected —
 mine usually starts with a sensor I had to design first.
 
-🎓 M.Sc. Computer Science (Artificial Intelligence), Université Laval (2026–2027) · Engineering, ENSEA Cergy (2024–2027)
+🎓 M.Sc. Computer Science (Artificial Intelligence), Université Laval (2026–2027) ·
 📍 Québec, Canada
 🔗 [LinkedIn](https://www.linkedin.com/in/abderrahmane-el-felsoufi) · ABELF14@ulaval.ca
 
